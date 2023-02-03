@@ -1,0 +1,19 @@
+{
+  "name": "fabricam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srushti1122/Fabricam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srushti1122/Fabricam/issues"
+  },
+  "homepage": "https://github.com/srushti1122/Fabricam#readme"
+}
